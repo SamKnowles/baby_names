@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Baby name Maker</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h1>The Magical Baby Name Maker</h1>
+    <div id="names"></div>
+    <div>
+      <label for="textBox" class="textPrompt">What is your last name?</label>
+      <input type="text" id="lastName">
+    </div>
+    <div>
+      <label for="male" class="maleButton">Male Name:</label>
+      <input type="radio" id="boyRadio" name="sex">
+      <label for="female" class="femaleButton">Female Name:</label>
+      <input type="radio" id="girlRadio" name="sex">
+    </div>
+    <div>
+      <button onclick="displayName()">Generate Name</button>
+    </div>
+    <div id="output"></div>
+    <script src="data.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,5 @@
+var maleNames = ["Alvin", "Arnold", "Benard", "Carlton", "Cecil", "Chester", "Claude", "Cloyd", "Dudley", "Earl", "Elmer", "Ernest", "Horace", "Julius", "Lester", "Marvin", "Milton", "Norman", "Oswald", "Percy", "Rudolph", "Sherman", "Vernon", "Wendell"];
+
+var femaleNames = ["Avis", "Alma", "Beulah", "Elnora", "Ernestine", "Eunice", "Fern", "Hilda", "Lois", "Melba", "Merle", "Myrtle", "Pansy", "Rosetta", "Thelma", "Velma", "Dolly", "Dot", "Elinor", "Frances", "Jane", "Marcella", "Patricia", "Peg", "Violet"];
+
+var middleNames = ["The Outstanding Muggle", "The Astounding Muggle", "The Staggering Muggle", "The Pervasive Muggle", "The Intrusive Muggle", "The Stunning Muggle", "The Prodigious Muggle", "The King-Slayer Muggle", "The Wicked Muggle", "The Gluttonous Muggle", "The Evil Muggle", "The Rapturous Muggle", "The Legendary Muggle", "The Majestic Muggle", "The Splendiferous Muggle", "The Confused Muggle", "The Doctor Muggle", "The Murderous Muggle", "The Muggleous Muggle", "The Effulgent Muggle", "The Platitudinous Muggle", "The Vapid Muggle", "The Withering Muggle"];
